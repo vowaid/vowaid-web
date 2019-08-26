@@ -65,6 +65,19 @@
                   data-item-description="$100 Donation to VOWAID Foundation"
                 >$100.00</v-btn>
               </v-flex>
+              <v-flex>
+                <v-btn
+                  class="snipcart-add-item primary donations-b mt-5tn"
+                  large
+                  round
+                  data-item-id="1500D"
+                  data-item-name="Donation"
+                  data-item-price="1500.00"
+                  data-item-image="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,w_75/v1539460895/VOWAID/dollar-sign.png"
+                  data-item-url="/products.json"
+                  data-item-description="$1500 Donation to VOWAID Foundation"
+                >$1,500.00</v-btn>
+              </v-flex>
               <v-flex xs12 class="hidden-sm-and-down">
                 <img
                   src="https://res.cloudinary.com/missionwebdev/image/upload/c_scale,f_auto,q_70,w_250/v1535429145/VOWAID/vowaid-logo-dark-shadow.png"
